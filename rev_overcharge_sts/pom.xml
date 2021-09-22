@@ -16,8 +16,9 @@
 	<description>Revature Project 3 for 210712 UTA Batch</description>
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.organization>revature-overcharge-2nd-iteration</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		
+		 <sonar.organization>soniasam</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 		<skipTests>false</skipTests>
 	</properties>
